@@ -1,0 +1,26 @@
+.nav {
+  background-color: #000;
+  color: #fff;
+  padding: 15px 0 15px 20px;
+}
+
+.list {
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.modal {
+  background-color: #eee;
+  padding: 20px;
+  margin-top: 20px;
+}
