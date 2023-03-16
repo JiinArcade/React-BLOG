@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import './Blog.css';
 
-const names = ['배현진', '여상현', '김지혜'];
+const names = ['강해민', '강해민 원숭이', '강해민 노빠꾸'];
 
 const Blog = () => {
-  const [titles, setTitles] = useState(['배현진', '여상현', '김지혜']);
+  const [titles, setTitles] = useState(['강해민', '강해민 원숭이', '강해민 노빠꾸']);
   const [selectedTitleIndex, setSelectedTitleIndex] = useState(-1);
 
   const handleDelete = (index) => {
